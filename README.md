@@ -1,0 +1,2 @@
+# SoftCam
+SoftCam.Key
